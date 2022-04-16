@@ -8,8 +8,13 @@
 
 - 📫 How to reach me **alexmeco95@gmail.com**
 
-<!--
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="48" height="48"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="48" height="48"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="48" height="48"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="48" height="48"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=binaryinhouse&show_icons=true" alt="binaryinhouse" /> </p>-->
+
+<p align="left"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg" alt="csharp" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="docker" width="48" height="48"/> <img 
+src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg" alt="dotnet" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="java" width="48" height="48"/> <img 
+src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" width="48" height="48"/> <img 
+src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="mongodb" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="mysql" width="48" height="48"/> <img 
+src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg" alt="nodejs" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nginx.svg" alt="nginx" width="48" height="48"/></p><p align="center"> <img 
+src="https://github-readme-stats.vercel.app/api?username=binaryinhouse&show_icons=true" alt="binaryinhouse" /> </p>
 
 <p align="center">
 <a href="https://twitter.com/@alex_meregil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@alex_meregil" height="20" width="20" /></a>
